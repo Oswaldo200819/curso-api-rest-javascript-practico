@@ -103,6 +103,5 @@ dist
 # TernJS port file
 .tern-port
 
-# secrets.js (API  KEY - API MOVIE) 
-
-curso-api-rest-javascript-practico/src/secrets.js*
+# secrets.js 
+src/secrets.js

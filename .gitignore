@@ -105,4 +105,4 @@ dist
 
 # secrets.js (API  KEY - API MOVIE) 
 
-consumo-apis-ll/curso-api-rest-javascript-practico/src/secrets.js
+secrets.js

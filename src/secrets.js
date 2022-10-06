@@ -1,1 +1,1 @@
-console.log('probando archivo');
+const API_KEY = 'f200bb1c1249524e90b2a2d490b0b158';
